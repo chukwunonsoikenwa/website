@@ -14,7 +14,7 @@ This repository contains the sources of AsyncAPI website:
 
 - It's powered by [Next.js](https://nextjs.org/),
 - It uses [Tailwind](https://tailwindcss.com/) CSS framework,
-- It's build and deployed with [Netlify](https://www.netlify.com/).
+- It's built and deployed with [Netlify](https://www.netlify.com/).
 
 ## Requirements
 
@@ -58,7 +58,7 @@ Use the following tools to set up the project:
 7. Access the live development server at [localhost:3000](http://localhost:3000).
 
 
-## Compose new blog post
+## Compose a new blog post
 
 To bootstrap a new post, run this command:
 
